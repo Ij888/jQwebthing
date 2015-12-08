@@ -2,3 +2,6 @@
 
 _28January2015
 stopped at the 3rd pg.
+
+_07December2015
+ so jquery(){<code>} ≡ $(){<code>}
